@@ -10,6 +10,9 @@
 !.yarn/releases
 !.yarn/versions
 
+
+# folder
+emails/
 # testing
 /coverage
 

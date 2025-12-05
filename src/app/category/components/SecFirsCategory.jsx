@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-key */
 /* eslint-disable jsx-a11y/alt-text */
 "use client"
 import React from 'react'
@@ -430,23 +431,25 @@ const SecFirsCategory = () => {
                         <div className='border-b border-neutral-200 pb-10'>
                              <div className='grid grid-cols-2 xl:grid-cols-3 gap-4 md:gap-14'>
                                 {currentProducts.map((pr)=>(
-                                    <div key={pr.id} className='flex flex-col gap-1 md:gap-3'>
-                                        <div className='w-full overflow-hidden rounded-md md:rounded-3xl'><Image className='w-full object-cover cursor-pointer transition-all hover:scale-110 duration-500 ease-in-out' src={pr.image} alt="image" width={360} height={298}></Image></div>
-                                        <p className='text-[12px] md:text-[18px] xl:text-[20px] font-bold mt-3'>{pr.title}</p>
-                                        <div className='flex items-center gap-2'>
-                                            <FaStar className='w-3 md:w-4 xl:w-5' size={20} color='#ffb100'/>
-                                            <FaStar className='w-3 md:w-4 xl:w-5' size={20} color='#ffb100'/>
-                                            <FaStar className='w-3 md:w-4 xl:w-5' size={20} color='#ffb100'/>
-                                            <FaStar className='w-3 md:w-4 xl:w-5' size={20} color='#ffb100'/>
-                                            <FaStar className='w-3 md:w-4 xl:w-5' size={20} color='#ffb100'/>
-                                            <span className='text-[12px] md:text-[14px] xl:text-[16px]'>{pr.rating}</span>
+                                    <Link key={pr.id} href={`/productdetail/${pr.id}`}>
+                                        <div  className='flex flex-col gap-1 md:gap-3'>
+                                            <div className='w-full overflow-hidden rounded-md md:rounded-3xl'><Image className='w-full object-cover cursor-pointer transition-all hover:scale-110 duration-500 ease-in-out' src={pr.image} alt="image" width={360} height={298}></Image></div>
+                                            <p className='text-[12px] md:text-[18px] xl:text-[20px] font-bold mt-3'>{pr.title}</p>
+                                            <div className='flex items-center gap-2'>
+                                                <FaStar className='w-3 md:w-4 xl:w-5' size={20} color='#ffb100'/>
+                                                <FaStar className='w-3 md:w-4 xl:w-5' size={20} color='#ffb100'/>
+                                                <FaStar className='w-3 md:w-4 xl:w-5' size={20} color='#ffb100'/>
+                                                <FaStar className='w-3 md:w-4 xl:w-5' size={20} color='#ffb100'/>
+                                                <FaStar className='w-3 md:w-4 xl:w-5' size={20} color='#ffb100'/>
+                                                <span className='text-[12px] md:text-[14px] xl:text-[16px]'>{pr.rating}</span>
+                                            </div>
+                                            <div className='flex flex-wrap gap-3'>
+                                                <p className='text-[16px] md:text-[20px] xl:text-[28px] font-bold'>{pr.price}</p>
+                                                <del className={`${pr.id == 1 || pr.id == 3 || pr.id == 6 || pr.id == 8 ? 'hidden' : ''} text-[16px] md:text-[18px] xl:text-[26px] text-neutral-500 font-bold`}>{pr.oldPrice}</del>
+                                                <p className={`${pr.id == 1 || pr.id == 3 || pr.id == 6 || pr.id == 8 ? 'hidden' : ''}  text-[12px] md:text-[14px] content-center rounded-full py-1 px-4 md:px-6 xl:py-2 w-fit bg-[#fd74743f] text-[#FF3333]`}>{pr.discount}</p>
+                                            </div>
                                         </div>
-                                        <div className='flex flex-wrap gap-3'>
-                                            <p className='text-[16px] md:text-[20px] xl:text-[28px] font-bold'>{pr.price}</p>
-                                            <del className={`${pr.id == 1 || pr.id == 3 || pr.id == 6 || pr.id == 8 ? 'hidden' : ''} text-[16px] md:text-[18px] xl:text-[26px] text-neutral-500 font-bold`}>{pr.oldPrice}</del>
-                                            <p className={`${pr.id == 1 || pr.id == 3 || pr.id == 6 || pr.id == 8 ? 'hidden' : ''}  text-[12px] md:text-[14px] content-center rounded-full py-1 px-4 md:px-6 xl:py-2 w-fit bg-[#fd74743f] text-[#FF3333]`}>{pr.discount}</p>
-                                        </div>
-                                    </div>
+                                    </Link>
                                 ))} 
                             </div>   
                         </div>  

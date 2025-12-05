@@ -5,13 +5,13 @@ const SecFirst = ({ onButtonClick }) => {
     
     <div className='flex justify-center pt-10 bg-[#F2F0F1]'>
         <div className='max-w-[2050px] w-full flex justify-center'>
-            <div>
+            <div className='w-full lg:px-8 2xl:lg:px-0 2xl:w-[90%]'>
                 {/* hero sec */}
-                <div className=' lg:flex xl:gap-36 xl:px-8 2xl:px-28'>
+                <div className=' lg:flex xl:gap-36'>
                     {/* content */}
                     <div className='w-full flex-1'>
                         
-                        <div className='px-2 md:px-5 2xl:p-0 flex flex-col items-center md:items-start gap-4 md:gap-6 xl:gap-10'>
+                        <div className='px-2 md:px-5 lg:p-0 flex flex-col items-center md:items-start gap-4 md:gap-6 xl:gap-10'>
                             <h2 className='text-[36px] md:text-[54px] 2xl:text-[64px] font-bold font-integral leading-10 md:leading-[55px] xl:leading-[72px]'>FIND CLOTHES THAT MATCHES YOUR STYLE</h2>
                             <p className='text-[16px] w-full md:w-4/5 xl:w-full font-normal'>Browse through our diverse range of meticulously crafted garments, designed to bring out your individuality and cater to your sense of style.</p>
                             <a href='#section2' className='text-center w-full md:w-fit rounded-full px-16 py-3 lg:py-5 bg-[#000000] text-[#FFFFFF]'>Shop Now</a>
