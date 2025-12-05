@@ -1,0 +1,434 @@
+[
+  {
+    "id": 1,
+    "image": "/products/product1.png",
+    "title": "Gradient Graphic T-shirt",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 2,
+    "image": "/products/product10.png",
+    "title": "Polo with Tipping Details",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 3,
+    "image": "/products/product3.png",
+    "title": "Black Striped T-shirt",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 4,
+    "image": "/products/product4.png",
+    "title": "SKINNY FIT JEANS",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 5,
+    "image": "/products/product5.png",
+    "title": "CHECKERED SHIRT",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 6,
+    "image": "/products/product6.png",
+    "title": "SLEEVE STRIPED T-SHIRT",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 7,
+    "image": "/products/product7.png",
+    "title": "VERTICAL STRIPED SHIRT",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 8,
+    "image": "/products/product11.png",
+    "title": "COURAGE GRAPHIC T-SHIRT",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 9,
+    "image": "/products/product9.png",
+    "title": "LOOSE FIT BERMUDA SHORTS",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 10,
+    "image": "/products/product9.png",
+    "title": "LOOSE FIT BERMUDA SHORTS",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 11,
+    "image": "/products/product7.png",
+    "title": "Gradient Graphic T-shirt",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 12,
+    "image": "/products/product6.png",
+    "title": "Polo with Tipping Details",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 13,
+    "image": "/products/product5.png",
+    "title": "Black Striped T-shirt",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 14,
+    "image": "/products/product4.png",
+    "title": "SKINNY FIT JEANS",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 15,
+    "image": "/products/product3.png",
+    "title": "CHECKERED SHIRT",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 16,
+    "image": "/products/product2.png",
+    "title": "SLEEVE STRIPED T-SHIRT",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 17,
+    "image": "/products/product7.png",
+    "title": "VERTICAL STRIPED SHIRT",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 18,
+    "image": "/products/product1.png",
+    "title": "Gradient Graphic T-shirt",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 19,
+    "image": "/products/product10.png",
+    "title": "Polo with Tipping Details",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 20,
+    "image": "/products/product3.png",
+    "title": "Black Striped T-shirt",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 21,
+    "image": "/products/product4.png",
+    "title": "SKINNY FIT JEANS",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 22,
+    "image": "/products/product5.png",
+    "title": "CHECKERED SHIRT",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 23,
+    "image": "/products/product6.png",
+    "title": "SLEEVE STRIPED T-SHIRT",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 24,
+    "image": "/products/product7.png",
+    "title": "VERTICAL STRIPED SHIRT",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 25,
+    "image": "/products/product1.png",
+    "title": "Gradient Graphic T-shirt",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 26,
+    "image": "/products/product10.png",
+    "title": "Polo with Tipping Details",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 27,
+    "image": "/products/product3.png",
+    "title": "Black Striped T-shirt",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 28,
+    "image": "/products/product4.png",
+    "title": "SKINNY FIT JEANS",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 29,
+    "image": "/products/product5.png",
+    "title": "CHECKERED SHIRT",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 30,
+    "image": "/products/product6.png",
+    "title": "SLEEVE STRIPED T-SHIRT",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 31,
+    "image": "/products/product7.png",
+    "title": "VERTICAL STRIPED SHIRT",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 32,
+    "image": "/products/product11.png",
+    "title": "COURAGE GRAPHIC T-SHIRT",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 33,
+    "image": "/products/product9.png",
+    "title": "LOOSE FIT BERMUDA SHORTS",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 34,
+    "image": "/products/product9.png",
+    "title": "LOOSE FIT BERMUDA SHORTS",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 35,
+    "image": "/products/product7.png",
+    "title": "Gradient Graphic T-shirt",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 36,
+    "image": "/products/product6.png",
+    "title": "Polo with Tipping Details",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 37,
+    "image": "/products/product5.png",
+    "title": "Black Striped T-shirt",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 38,
+    "image": "/products/product4.png",
+    "title": "SKINNY FIT JEANS",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 39,
+    "image": "/products/product3.png",
+    "title": "CHECKERED SHIRT",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 40,
+    "image": "/products/product2.png",
+    "title": "SLEEVE STRIPED T-SHIRT",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 41,
+    "image": "/products/product7.png",
+    "title": "VERTICAL STRIPED SHIRT",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 42,
+    "image": "/products/product1.png",
+    "title": "Gradient Graphic T-shirt",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 43,
+    "image": "/products/product10.png",
+    "title": "Polo with Tipping Details",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 44,
+    "image": "/products/product3.png",
+    "title": "Black Striped T-shirt",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 45,
+    "image": "/products/product4.png",
+    "title": "SKINNY FIT JEANS",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 46,
+    "image": "/products/product5.png",
+    "title": "CHECKERED SHIRT",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 47,
+    "image": "/products/product6.png",
+    "title": "SLEEVE STRIPED T-SHIRT",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  },
+  {
+    "id": 48,
+    "image": "/products/product7.png",
+    "title": "VERTICAL STRIPED SHIRT",
+    "rating": "4.5/5",
+    "price": "$120",
+    "oldPrice": "$120",
+    "discount": "-20%"
+  }
+]
